@@ -1,0 +1,2 @@
+# Actuator-arm-with-dof3
+Robotic arms are usually controlled by 2 or more motors which acts as joints. Movement of these in coordinated manner in 3D space ensures the completion of several tasks. Forward kinematics and inverse kinematics are two mathematical tools that relates coordinates of the end effector and specific set of positions of the servo motors. Here in this work, inverse kinematics is implemented to achieve both two and three degree of freedom.
